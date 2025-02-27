@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rkmRYZMK-EeQ5DZMpUrm3w" Reference="BwgCRqHvaUqDwMo-Mc5DCw/i6ADa7Fxe0GOKJziwtbjiQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" DesignTimeRectangle="479, 314, 1246, 321" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;app-root&amp;gt;div&amp;gt;app-rpa1&amp;gt;div&amp;gt;div' tag='DIV' /&gt;" Guid="8e76f79b-b9d9-450f-acc1-32bbb2e3f926" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dcc6393187aed1b0e4d1068a9599f41c.png" xmlns="">0jjF1eULNo0SwjGEfR_pIiA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TakeScreenshot</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

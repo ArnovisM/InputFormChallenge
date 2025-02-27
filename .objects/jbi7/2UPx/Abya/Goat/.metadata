@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT DIFNc",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "GoatEC1DB0qIK9nYlV017A",
+  "Reference": "BwgCRqHvaUqDwMo-Mc5DCw/GoatEC1DB0qIK9nYlV017A",
+  "ParentRef": "BwgCRqHvaUqDwMo-Mc5DCw/AbyaV5Dauk2IHBRI-q4gCg",
+  "Created": "2025-02-18T21:13:23.7953862Z",
+  "Updated": "2025-02-18T21:13:23.7953862Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

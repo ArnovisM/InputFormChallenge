@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GKWzQdLpJkGb9pyWElYozA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" DesignTimeRectangle="641, 395, 432, 69" DesignTimeScaleFactor="1.5" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='DIFNc' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='DIFNc' tag='INPUT' type='' class='ng-untouched ng-pristine ng-invalid' aaname='' /&gt;" Guid="647307a2-8f32-40df-bf7b-aec9d77add42" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b39b42a46456dd9e58fcd461ccb68a58.png" xmlns="">05Ib8WX0S9k2T8g3JmXirAw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

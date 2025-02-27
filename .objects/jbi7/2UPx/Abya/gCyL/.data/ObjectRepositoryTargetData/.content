@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dy0-zwnMCE-AJ2hMGVeY9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" DesignTimeRectangle="1060, 746, 328, 69" DesignTimeScaleFactor="1.5" ElementType="InputBox" FullSelectorArgument="&lt;webctrl aaname='Email' tag='LABEL' /&gt;&lt;nav up='1' /&gt;&lt;webctrl tag='INPUT' /&gt;" Guid="e3197e9c-1edb-4a26-9123-cf22336d21eb" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2077de58995d7d845e52dd7cff135eee.png" xmlns="">0fkNS7RDhq0upOydw75tWmQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

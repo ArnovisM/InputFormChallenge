@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT FY5Ou",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "YBD6Lo7FU02QPfVHniq2fQ",
+  "Reference": "BwgCRqHvaUqDwMo-Mc5DCw/YBD6Lo7FU02QPfVHniq2fQ",
+  "ParentRef": "BwgCRqHvaUqDwMo-Mc5DCw/AbyaV5Dauk2IHBRI-q4gCg",
+  "Created": "2025-02-18T21:18:47.5721122Z",
+  "Updated": "2025-02-18T21:18:47.5721122Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

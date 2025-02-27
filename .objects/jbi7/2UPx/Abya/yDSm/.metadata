@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT cDY2I",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "yDSmPxIHxkOEhYi99xe39Q",
+  "Reference": "BwgCRqHvaUqDwMo-Mc5DCw/yDSmPxIHxkOEhYi99xe39Q",
+  "ParentRef": "BwgCRqHvaUqDwMo-Mc5DCw/AbyaV5Dauk2IHBRI-q4gCg",
+  "Created": "2025-02-18T21:12:20.3926578Z",
+  "Updated": "2025-02-18T21:12:20.3926578Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

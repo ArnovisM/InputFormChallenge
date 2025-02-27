@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Congratulations!Your su…",
+  "Type": "Element",
+  "Id": "i6ADa7Fxe0GOKJziwtbjiQ",
+  "Reference": "BwgCRqHvaUqDwMo-Mc5DCw/i6ADa7Fxe0GOKJziwtbjiQ",
+  "ParentRef": "BwgCRqHvaUqDwMo-Mc5DCw/5KpcWE8OXUq7ycKt5y_nBQ",
+  "Created": "2025-02-19T13:03:08.0952825Z",
+  "Updated": "2025-02-19T13:03:08.0952825Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
